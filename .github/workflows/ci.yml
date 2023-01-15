@@ -3,7 +3,7 @@ name: ci_notify
 on:
   push:
     branches:
-      - ci-cd
+      - feat/ci-cd
       - master
 
 jobs:
